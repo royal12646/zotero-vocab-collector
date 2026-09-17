@@ -22,7 +22,7 @@
 ## 下载与安装
 
 1. 打开本仓库的 [Releases 页面](https://github.com/royal12646/zotero-vocab-collector/releases)。
-2. 下载最新版本的 `Zotero生词整理器.exe`。
+2. 下载最新版本的 `Zotero-vocab-collector-*.exe`。
 3. 将程序放在桌面或任意文件夹，无需安装。
 4. 如果 Windows SmartScreen 提示未知发布者，请确认文件来自本仓库的 Releases 页面，再选择“更多信息 → 仍要运行”。
 
@@ -38,7 +38,7 @@
 ## 使用方法
 
 1. 在 Zotero PDF 阅读器中，用**蓝色**高亮标记陌生单词、短语或句子。
-2. 双击 `Zotero生词整理器.exe`。
+2. 双击下载的 `Zotero-vocab-collector-*.exe`。
 3. 在左侧选择 Zotero 文件夹分组。
 4. 在右侧选择一篇论文。
 5. 选择 Excel 输出位置；默认文件名为论文标题。
