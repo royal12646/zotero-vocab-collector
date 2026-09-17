@@ -98,12 +98,6 @@
 
 检查网络连接。MyMemory 免费接口可能有调用频率或每日额度限制，稍后重试即可。
 
-## 测试与构建 Windows 程序
-
-```powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
-.\.venv\Scripts\python.exe -m pytest -q
-.\.venv\Scripts\python.exe -m PyInstaller --noconfirm --clean "Zotero生词整理器.spec"
 ```
 
 构建结果位于 `dist\Zotero生词整理器.exe`。
