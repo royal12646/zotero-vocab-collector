@@ -12,6 +12,20 @@
 - Excel 包含“陌生词汇、翻译、所在原句、论文、页码”五列，带表头配色、边框、自动换行和筛选。
 - 输出文件默认使用论文标题命名。
 
+## 界面预览
+
+### 程序主界面
+
+保持 Zotero 运行后，程序会读取文库分组和论文列表。
+
+![Zotero 生词整理器主界面](docs/images/app-interface.png)
+
+### Excel 导出效果
+
+原句中的陌生词汇会以红色粗体显示。
+
+![Excel 生词表导出效果](docs/images/excel-output.png)
+
 ## 系统要求
 
 - Windows 10 或 Windows 11
