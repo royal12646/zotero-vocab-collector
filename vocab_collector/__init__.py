@@ -1,0 +1,2 @@
+"""Zotero vocabulary collector."""
+
